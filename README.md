@@ -1,7 +1,7 @@
 # CRSOFT
 beta-3
 commands: 
- - python main.py --get "https://link.com/page?param=-1" --sql ?--dbs ?--dbv
+ - python main.py --get "https://link.com/page?param=-1" --sql ?--list <"FILEPATH"> ?--dbs ?--dbv
  - python main.py --ports ip
  - python main.py --pages "https://link.com"
  - python main.py --search-get "https://link.com"
